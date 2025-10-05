@@ -11,6 +11,6 @@ This is a test markdown document that includes two test images from the images d
 These images are being used for testing purposes.
 
 ## Image 3 - Pexels Photo
-![Two Yellow Labrador Retriever Puppies](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Closeup Photo of Brown and Black Dog Face](https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=800)
 
-*Photo by Chevanon Photography from Pexels*
+*Photo by Lum3n from Pexels*
